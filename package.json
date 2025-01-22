@@ -13,7 +13,9 @@
   "type": "commonjs",
   "description": "",
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "lodash.debounce": "^4.0.8",
+    "parcel": "^2.13.3",
     "pnotify": "^5.2.0"
   }
 }
