@@ -1,0 +1,28 @@
+#app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  #search-box {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #country-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #country-list li {
+    margin: 5px 0;
+  }
+  
+  #country-info img {
+    display: block;
+    margin-top: 10px;
+  }
+  
